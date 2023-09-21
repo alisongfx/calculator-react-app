@@ -2,6 +2,10 @@
 
 Esse projeto foi criado para praticar e conhecer o React e seus components
 
+# Deploy
+
+Acesse a calculadora online: https://calculator-react-app-mu.vercel.app/
+
 ## Rode o projeto local
 
 Instale as dependencias
